@@ -3,3 +3,6 @@ def addition(a,b):
 
 def subtra(a,b):
     return a - b
+
+def division(a,b):
+    return a/b
